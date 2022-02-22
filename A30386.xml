@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true Christian-man's duty both to God and the King deliver'd in a sermon preached in the Temple-Church on Sunday, November VI, 1670 / by Richard Ball ...</title>
+            <author>Ball, Richard, 1608 or 9-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30386</idno>
+            <idno type="STC">Wing B583</idno>
+            <idno type="STC">ESTC R15132</idno>
+            <idno type="EEBO-CITATION">12854603</idno>
+            <idno type="OCLC">ocm 12854603</idno>
+            <idno type="VID">94582</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94582)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 706:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true Christian-man's duty both to God and the King deliver'd in a sermon preached in the Temple-Church on Sunday, November VI, 1670 / by Richard Ball ...</title>
+                  <author>Ball, Richard, 1608 or 9-1684.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.G. and J.P. for John Playford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Matthew XXII, 21 --  Sermons.</term>
+               <term>Christian life --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94582:1"/>
+            <pb facs="tcp:94582:1" rendition="simple:additions"/>
+            <p>THE TRUE <hi>Chriſtian-man's Duty</hi> BOTH TO God and the King: Deliver'd in a SERMON Preached in the TEMPLE-CHURCH On <hi>Sunday, November VI.</hi> 1670.</p>
+            <p>
+               <hi>By</hi> RICHARD BALL, D. D. <hi>Chaplain in Ordinary to His Majeſty.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. G.</hi> and <hi>J. P.</hi> for <hi>John Playford,</hi> at his Shop near the <hi>Temple-Church,</hi> 1682.</p>
+            <pb facs="tcp:94582:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94582:2"/>
+            <head>TO THE TWO <hi>Honourable Societies</hi> OF THE TEMPLE.</head>
+            <p>
+               <hi>HAving lately read in print theſe Lines:</hi> A Tantivy-Preacher in the Tem<g ref="char:EOLhyphen"/>ple, upon that Text, Give to Caeſar the things that are Caeſar's, and to God the things that are God's; ſaid, What is Caeſars? What things?—I an<g ref="char:EOLhyphen"/>ſwer, Caeſar ſhall have your Goods, your Lands, your Wives, your Children, your All; all is Caeſar's: But ſome may ſay, (quoth Tantivy-Preacher, fitter to preach at Tyburn, than the Temple) If Caeſar ſhall have all, then what ſhall God have? I anſwer, (quoth he) God ſhall have your Souls: But as for your Bodies, your Lands, your Goods, your Lives, your Chil<g ref="char:EOLhyphen"/>dren, and your Wives, they are Caeſar's.</p>
+            <p>
+               <hi>To this ſtrange and unexpected Charge, I return theſe Anſwers: That I have had the honour to</hi>
+               <pb facs="tcp:94582:3"/> 
+               <hi>preach in the</hi> Temple <hi>theſe</hi> 20 <hi>Years and more, but never did I hear ſuch words to be ſpoken there. Beſides, it is not probable, that thoſe two honourable and learned Societies, who underſtand and love their Proprieties ſo well, ſhould tamely and ſilently paſs by ſuch Divinity. As for my own perſon, againſt whom, I am told, ſeveral ways that this Charge was intended, I did call to mind that I did once preach upon that Text,</hi> Give unto Caeſar the things that are Caeſar's, and unto God the things that are God's; <hi>and upon a ſearch, I found that the Sermon was preached</hi> No<g ref="char:EOLhyphen"/>vember 6. 1670. <hi>ſo long it hath ſlept quietly, and ſhould have ſlept on ſtill, had it not been thus awaken'd; of which Diſcourſe, I here preſent you a true Copy, not adding, not diminiſhing, not changing one word. If any man will ſhew me wherein I have erred, I will embrace him for a Friend, not forget<g ref="char:EOLhyphen"/>ting that great St.</hi> Auguſtine <hi>hath his Retra<g ref="char:EOLhyphen"/>ctations. God bleſs it to the Reader, ſo prayeth</hi>
+            </p>
+            <closer>
+               <signed>Your real Servant, Titular Maſter, RICHARD BALL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:94582:3"/>
+            <epigraph>
+               <bibl>S<hi rend="sup">t</hi>. MATTHEW XXII. 21.</bibl>
+               <q>Render therefore unto Caeſar, the things which are Caeſar's, and unto God, the things which are God's.</q>
+            </epigraph>
+            <p>MY Defence for the choice of this Text (if you think there doth need any) would be enough to tell you, that it is part of the Goſpel for this day, upon which the an<g ref="char:EOLhyphen"/>cient cuſtom was to preach. My Defence is greater, while I remember that the Parliament is now ſitting; a time in which <hi>Caeſar</hi> uſeth to be remembred, and pre<g ref="char:EOLhyphen"/>ſented with Gifts. My Defence is higher yet, if you look back no farther than to yeſterday, the Fifth of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> in which both <hi>Caeſar</hi> and <hi>God</hi> were ſtrangely for<g ref="char:EOLhyphen"/>gotten.</p>
+            <p>I am to ſpeak this day for <hi>Caeſar,</hi> I am to ſpeak this day for the God of <hi>Caeſar,</hi> the King of Kings: <hi>Non eſt tutum de regibus loqui;</hi> It is not ſafe to ſpeak of Kings: to ſpeak too little, is called Popularity; to ſpeak too much, is called Flattery. To ſpeak of God, is both dangerous and difficult: <hi>Periculoſum eſt de Deo, etiam vera, dicere:</hi> His name is ineffable. <hi>Veriùs cogitatur quàm dicitur, quem totum omnia neſciunt, &amp; metuendo ſciunt;</hi>
+               <pb n="2" facs="tcp:94582:4"/> ſaith St. <hi>Auguſtine:</hi> He is more truly thought, than ſpo<g ref="char:EOLhyphen"/>ken of, whom fully all things are ignorant of, and yet by fear and trembling know him.</p>
+            <p>To ſpeak both of <hi>Caeſar</hi> and of God, only in reference to our giving; <hi>Render unto Caeſar, and unto God:</hi> There is nothing more unpleaſing to the Nature of Man, than to hear of giving; we are for receiving, we are for taking: I would to God we were not for defrauding; I would we were not like the Sons of <hi>Eli,</hi> with our Fleſh-hook in our hand, taking by force and violence. You ſee with how many difficulties my Text encom<g ref="char:EOLhyphen"/>paſſeth me.</p>
+            <p>The Text is an anſwer given by our Saviour to a dangerous Queſtion propounded to him by the Diſciples of the <hi>Phariſees</hi> and the <hi>Herodians;</hi> the Queſtion was this: Is it lawful to give Tribute to <hi>Caeſar,</hi> or not?</p>
+            <p>About the Birth of our Saviour, <hi>Auguſtus Caeſar</hi> lays a Tax upon the whole World, <hi>Luke</hi> 2. 1. which, being a new Impoſition, prov'd a matter of Diſpute and Que<g ref="char:EOLhyphen"/>ſtion: <hi>Judas</hi> of <hi>Galilee,</hi> he was againſt the Tax, and much people ſided with him; they look'd upon that opinion as the cheapeſt, if they had been able to defend it. The <hi>Jews</hi> were <hi>Abraham</hi>'s Seed, a free-born People, never in Bondage to any Man; and to maintain their Liberty, they made an Inſurrection. But in this attempt <hi>Judas</hi> periſhed, and the people who follow'd him were ſcatter'd.</p>
+            <p>
+               <hi>Herod,</hi> who was one of <hi>Caeſar</hi>'s great Creatures and Courtiers, he and his Followers, called <hi>Herodians,</hi> were
+<pb n="3" facs="tcp:94582:4"/> not only for the preſent Tax, but for whatever <hi>Caeſar</hi> ſhould pleaſe to impoſe. <hi>Diviſum imperium cum Jove Caeſar habet,</hi> was the <hi>Herodians</hi> Song; not ſung only as a piece of Poetry, as we commonly ſay, <hi>Pictoribus atque Poetis;</hi> Painters and Poets are bold Men, and may do any thing; but ſeriouſly, and in earneſt. <hi>Petronius</hi> would have brought the Image of <hi>Caligula</hi> into the Temple, and would have had not only Tribute, but alſo Sacrifice for <hi>Caeſar.</hi> Thus, as in Diſputes it commonly fares, ſome are for too little, others for too much, and the truth lies between them, unſeen of either.</p>
+            <p>This Queſtion was brought to our Saviour to en<g ref="char:EOLhyphen"/>tangle him; ſo the Text expreſly tells us, <hi>Matth.</hi> 22. 15. and indeed there was a double Snare in it: If to pleaſe the people, he appear'd an Enemy, or a doubtful Friend to <hi>Caeſar</hi>'s Tribute, he would have been look'd upon as a ſeditious perſon, an Enemy to <hi>Caeſar,</hi> a dangerous per<g ref="char:EOLhyphen"/>ſon to be ſuffer'd to live. If to pleaſe <hi>Caeſar,</hi> he de<g ref="char:EOLhyphen"/>clares himſelf for the Tax, preſently he incurs the <hi>Odium,</hi> the hatred of the people, which is as bad as half a Death. He that muſt be their <hi>Meſſias,</hi> muſt break the <hi>Roman</hi> Yoak, ſecure their Eſtates, deliver them from Taxes, and Tributes, and Impoſitions, all new Names, but all ſignifying the ſame thing, Money, which the <hi>Jews</hi> then, and to this very day, love too well; and I would to God we <hi>Chriſtians</hi> did not. This double Snare our Saviour wiſely breaks: <hi>Shew me,</hi> ſaith Chriſt, <hi>the Tribute-money and they brought unto him a Peny: Then ſaith he unto them, Whoſe is this Image and Superſcription? They ſay</hi>
+               <pb n="4" facs="tcp:94582:5"/> 
+               <hi>unto him, Caeſar's. Then ſaith he unto them, Render therefore unto Caeſar the things that are Caeſar's, and unto God the things that are God's.</hi> He would neither flatter the people, by denying <hi>Caeſar</hi> what was due to him; nor flatter <hi>Caeſar,</hi> by giving him what was due to God; but guides both them and us to be good Subjects, and good Chriſtians: Which are the two main points in this Text.</p>
+            <p>Our duty to <hi>Caeſar: Render unto Caeſar the things that are Caeſar's.</hi>
+            </p>
+            <p>Our duty unto God: <hi>And to God the things that are God's.</hi>
+            </p>
+            <p>Our duty enjoin'd us unto <hi>Caeſar,</hi> doth clearly ſup<g ref="char:EOLhyphen"/>poſe, that there muſt be a <hi>Caeſar,</hi> a King, one that is Su<g ref="char:EOLhyphen"/>pream.</p>
+            <p>Whether in the ſtate of Innocency one Man ſhould have rul'd over another, <hi>Aquinas</hi> doth diſpute, <hi>p.</hi> 1, 9, 96. <hi>ar.</hi> 4. and he doth conclude Affirmatively: <hi>Our con<g ref="char:EOLhyphen"/>dition,</hi> ſaith he, <hi>in the ſtate of Innocency, was not more worthy and noble than the condition of Angels in Heaven, amongſt whom one Order is call'd</hi> Dominions, <hi>Coloſ.</hi> 1. 16. The unrea<g ref="char:EOLhyphen"/>ſonable Creatures have their King: The Lyon is a King amongſt the Beaſts, the Eagle amongſt the Birds, the Whale amongſt the Fiſhes; the little Bees are not without their King. <hi>Seneca</hi> tells us, that the King of the Bees hath the largeſt Bed-chamber, placed in the midſt, and the ſafeſt place: That this King doth not work at all, but, according to its juſt State lives upon the Labours of others. When their King doth dye, the whole Swarm goeth forth to chuſe their King, and will
+<pb n="5" facs="tcp:94582:5"/> admit of no more than one. The King they chuſe, doth excell all others for Beauty and Proportion, (as <hi>Saul,</hi> the firſt King that the people of God had, was higher than all the people by the head.) Of all the Bees, the King alone doth want a Sting. <hi>Telum de<g ref="char:EOLhyphen"/>traxit, &amp; iram ejus inermem reliquit:</hi> He took away his Dart, and unweapon'd his Anger; and ſo Nature left him an Example to the great Kings of the Earth.</p>
+            <p>But, not to look ſo high as <hi>Paradiſe,</hi> or what is done amongſt the Angels in Heaven, nor yet ſo low as to the unreaſonable Creatures; let us look upon our ſelves, and where we now are, and then we muſt con<g ref="char:EOLhyphen"/>clude with <hi>Luther, Politia eſt neceſſarium remedium cor<g ref="char:EOLhyphen"/>rupt e naturae;</hi> Government is neceſſary Phyſick for our corrupted Nature. <hi>Judg.</hi> 17. 6. <hi>In thoſe days there was no King in Iſrael, but every man did that which was right in his own Eyes.</hi> To underſtand that Text of the happy and flouriſhing condition of thoſe times, was an interpreta<g ref="char:EOLhyphen"/>tion put upon that Text by a learned Man in the heat of our Rebellion, and in my eye it was like <hi>Simeon</hi> and <hi>Levi</hi> putting the poor <hi>Sichemites</hi> to death, when they were ſore, and unable to make any reſiſtance. The words immediately before the Text will tell you, that it is to be underſtood of the great unhappineſs of that Hour and People. <hi>Micah</hi> had an Houſe of Gods, and made an <hi>Ephod</hi> and <hi>Teraphim,</hi> and conſecrated one of his Sons, who became his Prieſt; and this Idolatry and Confuſion is charg'd upon this, <hi>In thoſe days there was no King in Iſrael,</hi> none to reſtrain or puniſh Wickedneſs.</p>
+            <pb n="6" facs="tcp:94582:6"/>
+            <p>The neceſſity of Dominion and Government, our Hap<g ref="char:EOLhyphen"/>pineſs that it dwells in <hi>Caeſar,</hi> that we live under Monar<g ref="char:EOLhyphen"/>chy, and not Populacy, I preſume ye are all fully ſatiſ<g ref="char:EOLhyphen"/>fied in, eſpecially after ſo bitter an Experience we have had.</p>
+            <p n="1">1. Our Duty unto <hi>Caeſar</hi> is the great buſineſs of the firſt part of my Text, <hi>Render therefore unto Caeſar the things that are Caeſar's.</hi> What are <hi>Caeſar's</hi> Dues and Rights, that is the queſtion to be determined, to which I anſwer:</p>
+            <p n="1">1. Honour is due to <hi>Caeſar:</hi> 1 <hi>Pet.</hi> 2. 17. <hi>Honour the King:</hi> To honour and reverence his Perſon, to bow our ſelves when we come into his Preſence. Thus <hi>Abſalom</hi> bowed himſelf with his face to the ground before the King, 2. <hi>Sam.</hi> 14. 33. This Honour we give unto our Superiours, but there are Degrees in it: The loweſt Reverence and Obeiſance is due unto the King. To ho<g ref="char:EOLhyphen"/>nour him in ſpeaking his Vertues and juſt Praiſes, not at Court, and in his hearing, that might be dangerous to the King. The Applauſe that was given to <hi>Herod</hi> for his eloquent Oration, coſt him his Life, <hi>Acts</hi> 12. 22, 23. That would ſavour of Flattery, or ſome ambitious De<g ref="char:EOLhyphen"/>ſign in the Speaker: But in our private Conferences, to ſpeak of his Wiſdom, of his Glemency, of his Vigilancy in Government, whereby we may provoke and ſtir up one another to Thankfulneſs to God, and Love unto our King. To honour him, in concealing and ſilencing his Faults and Infirmities; for Kings are Men, while
+<pb n="7" facs="tcp:94582:6"/> Gods; and Men are frail and weak; and Kings do meet with greater temptations than others do: <hi>Peccavit David, quod ſolent Reges, ſed flevit, ſed paenitentiam geſſit, quod non ſolent Reges;</hi> ſo St. <hi>Ambroſe</hi> tells us. When <hi>Nathan</hi> the Prophet was ſent to <hi>David</hi> by God, to tell him of his Sins, he did it with a great deal of modeſty and reve<g ref="char:EOLhyphen"/>rence to the perſon of the King; relates to him a Pa<g ref="char:EOLhyphen"/>rable, in which, as in a Glaſs, he did at length ſhew him his own Face, 2 <hi>Sam.</hi> 12. Without a Commiſſion, let no Man touch or mention the Sins of Kings, they are our Fathers, and our Father's nakedneſs ſhould be cover'd, as <hi>Shem</hi> and <hi>Japheth</hi> dealt with their Father <hi>Noah, Gen.</hi> 9.</p>
+            <p n="2">2. A ſecond thing that is due to <hi>Caeſar,</hi> is our Prayers, 1 <hi>Tim.</hi> 2. 1, 2. I exhort therefore, that firſt of all Sup<g ref="char:EOLhyphen"/>plications, Prayers, Interceſſions, and giving of Thanks, be made for all Men, for Kings, eſpecially, and by name, for Kings; the Kingdom and Church depend upon them: <hi>Regis ad exemplum.</hi> When <hi>Conſtantine</hi> the Empe<g ref="char:EOLhyphen"/>rour embrac'd Chriſtianity, then it flouriſhed, and was in honour and reputation. Not only for Chriſtian Kings, but alſo for Heathen and Pagan Emperours the Chriſtians were wont to pray; ſo <hi>Tertullian</hi> tells us: <hi>Oramus pro omnibus imperatoribus, vitam illis prolixam, im<g ref="char:EOLhyphen"/>perium ſecurum, domum tutam, exercitus fortes, ſenatum fide<g ref="char:EOLhyphen"/>lem, populum probum, orbem quietum, &amp; quaecunque hominis &amp; Caeſaris vota ſunt.</hi> The Prophet <hi>Jeremiah,</hi> when the Children of <hi>Iſrael<g ref="char:punc">▪</g>
+               </hi> were in Captivity in <hi>Babylon,</hi> writes
+<pb n="8" facs="tcp:94582:7"/> unto them, and counſels them to pray for the peace of that City, for in the <hi>peace thereof ye ſhall have peace: Jer.</hi> 29. 7. King <hi>Darius</hi> deſired the Prayers of the <hi>Jews</hi> for his Perſon, and for his Children. <hi>Ezra</hi> 6. 10. <hi>That they may offer Sacrifices of ſweet ſavours unto the God of Hea<g ref="char:EOLhyphen"/>ven, and pray for the life of the King, and of his Sons.</hi>
+            </p>
+            <p>Not only the danger, but alſo the great difficulty that is in Government, doth highly engage us to pray eſpe<g ref="char:EOLhyphen"/>cially for Kings. <hi>Galba,</hi> as <hi>Tacitus</hi> ſays, when he was crowned King, ſaid unto his Soldiers, It is now the ſixth day ſince I was ſtiled <hi>Caeſar; Sive optandum, ſive ti<g ref="char:EOLhyphen"/>mendum hoc nomen erat;</hi> He knew not whether the Title was to be deſir'd or fear'd. It was the cuſtom of the <hi>Perſians,</hi> on the day before the Inauguration of their Kings, to preſent them with a Banquet of Sweet-meats mingled with bitter Turpentine, and Wine with Gall; by which Ceremony they were admoniſh'd of the true nature of Crowns and Scepters. And not to wander ſo far from home, King <hi>Henry</hi> the Seventh in all his Buildings made this his Emblem, A Crown in a Buſh of Thorns. At his firſt entring into his Throne, there was a Sickneſs, call'd, <hi>The ſweating Diſeaſe,</hi> the people look'd upon it as prophetical, that he ſhould find a diffi<g ref="char:EOLhyphen"/>cult and laborious Reign. What difficulties, nay, what dangers hath not our preſent King both felt and ſeen! Of all Men, Kings do ſtand in need of Prayers, and it is our duty to pray conſtantly and fervently for our King, <hi>God ſave the King,</hi> which was the firſt Prayer made for <hi>Saul,</hi> the firſt King that the people of God had over them. 1 <hi>Sam.</hi> 10. 24.</p>
+            <pb n="9" facs="tcp:94582:7"/>
+            <p n="3">3. To <hi>Caeſar</hi> Obedience is due; Obedience to his juſt and innocent Laws. 1 <hi>Pet.</hi> 2. 13. <hi>Submit your ſelves to every ordinance of man for the Lord's ſake, whether it be to the King as Supream.</hi> When, in the Parable, the Trees went forth to anoint a King over them; when the Olive-tree, the Fig-tree, the Vine, all refuſed the Crown; when they came to the Bramble, and deſired that to reign over them, the ſilly and inconſiderable Bramble had ſo much ſence and wit, as to tell the Trees what they ſhould ex<g ref="char:EOLhyphen"/>pect: <hi>If in truth ye anoint me over you, then come and put your truſt under my Shadow; and if not, let Fire come out of the Bramble, and devour the Cedars of Lebanon,</hi> Judg. 9. 15. When the Bramble ſhall be made a King, the Cedars of <hi>Lebanon</hi> muſt either ſtoop to it, or be devoured; the Ce<g ref="char:EOLhyphen"/>dars, the beſt and nobleſt muſt lie down in the ſhadow of a Bramble, when that is King.</p>
+            <p>This Obedience, though to God himſelf, was very troubleſom to Man in Paradiſe; let no Man wonder to ſee how unquiet he is to give obedience unto Kings.</p>
+            <p n="1">
+               <hi>I.</hi> Some there are that would be exempted from this obedience to Kings, as being above it. <hi>Joſephus</hi> tells us, <hi>l.</hi> 13. of the <hi>Antiquities</hi> of the <hi>Jews,</hi> that the <hi>Pha<g ref="char:EOLhyphen"/>riſees</hi> in the days of Queen <hi>Alexandra</hi> got all the Power into their own hands; ſhe had the Name and Title of Queen, but they had the Power. You know whoſe voice it was: <hi>Ego &amp; Rex meus.</hi> The mark of Anti<g ref="char:EOLhyphen"/>chriſt, which was deliver'd to me when I was young, was, one who <hi>exalted himſelf above all that is called God,</hi>
+               <pb n="10" facs="tcp:94582:8"/> 2 <hi>Theſ.</hi> 2. 4. that is, above Kings, they are called Gods. Have we not ſuch a Clergy in the Bowels of this King<g ref="char:EOLhyphen"/>dom? the <hi>Presbyterians</hi> I mean; they would have a King whom they might excommunicate; a King whom they might rule and govern; and until they ſhall have ſuch a King, they are reſolv'd to have a tender Con<g ref="char:EOLhyphen"/>ſcience, that is, a Conſcience which no King ſhall ever rule and govern; let his Command be what it will, ne<g ref="char:EOLhyphen"/>ver ſo juſt and innocent. To cure this Diſtemper, that Text would be conſider'd, <hi>Rom.</hi> 13. 1. <hi>Let every Soul be ſubject to the higher Powers: Si omnis, &amp; veſtra;</hi> ſaith St. <hi>Bernard,</hi> ſpeaking of the Clergy.</p>
+            <p n="2">
+               <hi>II.</hi> Others there are, who limit their Obedience to the perſon commanding, who think, that Obedience is due only unto God and vertuous Kings. <hi>Si cauſa Chri<g ref="char:EOLhyphen"/>ſti &amp; eccleſia id exigat;</hi> Kings and Emperours may be Depoſed, ſaith <hi>Bellarmine, l.</hi> 1. <hi>de tranſ. Rom. Imp. c.</hi> 12. This Power he gives unto the Pope. In our Solemn League and Covenant, there is as clear a limitation ſet to our obedience to the King. <hi>Alexander,</hi> great in Wit as well as Valour, tells us, that he had two Friends, <hi>Ephe<g ref="char:EOLhyphen"/>ſtion</hi> and <hi>Craterus,</hi> one of them, he ſaid, lov'd <hi>Alexander,</hi> the other lov'd the King; but theſe Men are reſolv'd not to love the King, if they cannot love <hi>Alexander:</hi> If his Perſon does not pleaſe them, they will deſpiſe his Office and Government. It was to <hi>Tiberius Caeſar</hi> that Chriſt would have this Tribute paid: I ſhall not need to ſay any more of that.</p>
+            <pb n="11" facs="tcp:94582:8"/>
+            <p n="3">
+               <hi>III.</hi> Others there are, who neither regard the Reli<g ref="char:EOLhyphen"/>gion of the King, nor any Religion at all, but they limit their obedience to the meekneſs and gentleneſs of his Government. Let <hi>Rehoboam</hi> the King ſpeak roughly to the people, and preſently they do renounce him and their Allegiance. 1 <hi>King.</hi> 12. 16. <hi>To your tents, O Iſrael; now ſee to your own houſe, David.</hi> When the Tax was high, <hi>Judas</hi> of <hi>Galilee</hi> throws off his obe<g ref="char:EOLhyphen"/>dience, and takes advantage of the diſcontented peo<g ref="char:EOLhyphen"/>ple, every Man being but too tender and ſenſible of his Money; but he periſhed, and his Followers were ſcatter'd, <hi>Acts</hi> 5. 37. Rebellion does not always proſper, and leave Men rich.</p>
+            <p n="4">
+               <hi>IV.</hi> Some limit their Obedience to the time of their weakneſs and paucity in number, but when they are grown ſtrong and numerous, then they think that Pro<g ref="char:EOLhyphen"/>vidence has given them a diſcharge, and that it were not only folly, but ingratitude againſt God, to be any longer ſubject. This Divinity was not known among the Chriſtians in St. <hi>Cyprian</hi>'s time; <hi>Nemo noſtrum, quam<g ref="char:EOLhyphen"/>vis nimius &amp; copioſus eſt noſter populus, reluctatur.</hi> Let us baniſh all theſe limitations in our obedience to Kings; and let every <hi>Soul be ſubject to the higher Powers,</hi> and that under God is <hi>Caeſar</hi>'s.</p>
+            <p n="4">4. To <hi>Caeſar</hi> we owe our Money; about that the Queſtion is here propounded, concerning Tribute,
+<pb n="12" facs="tcp:94582:9"/> and the Peny that had <hi>Caeſar</hi>'s Image and Superſcrip<g ref="char:EOLhyphen"/>tion upon it; our Saviour bad them give to <hi>Caeſar.</hi> Here lieth the great difficulty: Honour, Prayers, Obedience, theſe coſt us nothing, and we eaſily give them to <hi>Cae<g ref="char:EOLhyphen"/>ſar;</hi> but our Money, it is as dear to us as our Blood, as our Life; ſo we find Money called, <hi>Luke</hi> 8. 43. The poor ſick Woman had <hi>ſpent all her Living upon Phyſi<g ref="char:EOLhyphen"/>cians,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>all her Life,</hi> that is, all her Money, whereby her Life was ſupported and maintained. God complains of the Princes of <hi>Iſrael,</hi> who <hi>did pluck off the Skin from the People, and their Fleſh from off their Bones; and did break their Bones, and chop them in pieces as for the Pot, and as Fleſh within the Caldron,</hi> Micah 3. 2, 3. which was nothing elſe but the taking of the Money from the people by Taxes and Impoſitions. The Text ſhews us not only the cruelty of thoſe Princes, but alſo how dear our Money is: He that takes it from us, doth tear our Fleſh from our Bones, and breaks our Bones to ſuck out the Marrow.</p>
+            <p>Yet to <hi>Caeſar</hi> there is a Tribute and a Cuſtom due, and paid it muſt be. <hi>Rom.</hi> 13. 7. <hi>Render to all their dues; Tribute to whom Tribute is due, Cuſtom to whom Cuſtom.</hi>
+            </p>
+            <p>Beſides theſe ordinary and daily Payments, there are extraordinary occaſions, cauſed by War from abroad, from a ſeditious and rebellious Spirit within our Bow<g ref="char:EOLhyphen"/>els;
+<pb n="13" facs="tcp:94582:9"/> both which call for Soldiers, and Soldiers for Pay. <hi>Menahem</hi> levied a thouſand Talents of Silver at one time, and made every rich Man pay fifty Shekels of Silver, 2 <hi>King.</hi> 15. 19, 20.</p>
+            <p>
+               <hi>Tacitus</hi> tells us, that the Evils in Government are to be quietly born, <hi>Quemadmodum ſterilitatem, aut nimios imbres, &amp; naturae mala:</hi> I know this ſeems to be cold comfort. Let me preſent unto you ſomething that is more pleaſing, by telling you, that thoſe Moneys which are given to a King, are like thoſe Vapours which aſcend from the Earth, and are turn'd into Clouds, which do return Showers upon the Earth again. From him we enjoy our Poſſeſſions in quiet; a free open Sea; Peace within our Walls; he is the <hi>Defender</hi> of our Lives, as well as <hi>of our Faith</hi> and Reli<g ref="char:EOLhyphen"/>gion. The people growing weary, and complaining of the Tax that <hi>Solomon</hi> had laid upon them, loſt their Religion; and <hi>Jeroboam</hi> provides two Calves for them to worſhip, as good enough for them who had no more wit; the ſtory is to be ſeen, 1 <hi>King.</hi> 12. But to ſpeak one word, more fit for your polite and gentle Ears, let me put you in mind, that <hi>Jeſus</hi> our Lord and Saviour did not only pay the Tribute, but wrought a Miracle to do it, and would not uſe or diſpute his free<g ref="char:EOLhyphen"/>dom with them, <hi>Mat.</hi> 17. 27.</p>
+            <pb n="14" facs="tcp:94582:10"/>
+            <p> I know, here two Queſtions may eaſily be ask'd: <hi>Quantum? Quomodo?</hi> How much muſt we give? How ſhall we raiſe it? Be not afraid for me; I ſhall leave theſe two Queſtions, which are above my Sphere, to the great Counſel of this Kingdom, and humbly pray, that God will direct them wiſely and ſafely to deter<g ref="char:EOLhyphen"/>mine.</p>
+            <p>Of our Duty to <hi>Caeſar,</hi> I ſhall ſay no more: <hi>Render unto Caeſar the things that are Caeſar's.</hi>
+            </p>
+            <p n="2">II. Our Duty unto God, that is the other branch of my Text, <hi>And to God the things that are God's.</hi> What is God's Right and Due, that muſt be reſolved here; the Anſwer in general is this: All that we have, and are, are due to God, for we have all from him; what have we that we have not received. <hi>Eccleſ.</hi> 1. 7. <hi>All Rivers run into the Sea, unto the place from whence the Ri<g ref="char:EOLhyphen"/>vers come, thither they return again;</hi> ſo it ſhould be with Man: What ever we have, from God it came, and to him in juſtice and gratitude it ought to return. But to deſcend to particulars.</p>
+            <p n="1">1. We muſt give to God our Soul; ſo ſaith <hi>Tertul<g ref="char:EOLhyphen"/>lian,</hi> ſpeaking of the words of my Text, <hi>Imaginem Caeſaris, Caeſari quae in nummo eſt, &amp; imaginem Dei, Deo quae in homine eſt, ut Caeſari quidem pecuniam reddas, Deo temetipſum;</hi> The Image of <hi>Caeſar,</hi> which is in thy Mo<g ref="char:EOLhyphen"/>ney,
+<pb n="15" facs="tcp:94582:10"/> give to <hi>Caeſar;</hi> the Image of God, which is in Man, give to God; give thy Money to <hi>Caeſar,</hi> and thy ſelf to God. Thy Soul preſent to God by holy Fear and Reverence, by ardent Love and Affection, by a juſt admiration of his glorious Excellencies, which no Tongue can ſpeak, no Heart conceive. Let thy Soul fervently aſcend to God in theſe words of <hi>David,</hi> Pſal. 73. 25. <hi>Whom have I in Heaven but thee, and there is none on Earth that I deſire in compariſon of thee.</hi> Thus the Soul of St. <hi>Auguſtine,</hi> as with full-ſpread Wings, aſ<g ref="char:EOLhyphen"/>cends to God: <hi>Quid eſt tota terra? Quid eſt totum mare? Quid eſt totum caelum? Quid ſtellae? Quid ſol? Omnium iſtorum Creatorem ſcio, ipſum eſurio, ipſum ſitio.</hi>
+            </p>
+            <p n="2">2. We muſt give to God our Bodies: <hi>Rom.</hi> 12. 1. <hi>I beſeech you, Brethren, by the mercies of God, that ye pre<g ref="char:EOLhyphen"/>ſent your Bodies a living Sacrifice, holy, acceptable unto God.</hi> Preſent your Bodies by an humble Adoration when you come into his Preſence, by kneeling before him; as to a Father, when you beg his Bleſſing. <hi>Pſal.</hi> 84. 2. <hi>My heart and my fleſh crieth out for the living God:</hi> Upon which words, St. <hi>Auguſtine</hi> moves this Queſtion: Was it not enough for him to ſay, <hi>Cor meum exultavit in Deum vivum, niſi addidiſſet, &amp; caro mea?</hi> No, both are neceſ<g ref="char:EOLhyphen"/>ſary; The Heart rejoyceth in God by pious and hea<g ref="char:EOLhyphen"/>venly Meditations: Our fleſh, <hi>Quando pudica eſt, quando ſobria, quando nullâ impuritate polluitur;</hi> When it is ſober, and chaſt, and pure, let our Eyes be lifted up to Hea<g ref="char:EOLhyphen"/>ven
+<pb n="16" facs="tcp:94582:11"/> by Devotion, our Hands extended by Alms and Charity, our Feet daily carry us to the Houſe of God, our Ears attentive to hear his Words, our Mouth to ſing his Praiſes: This is to preſent our Bodies a Sacri<g ref="char:EOLhyphen"/>fice unto God.</p>
+            <p n="3">3. We muſt give to God our Life; from him we have received it, <hi>Job</hi> 10. 12. <hi>Thou haſt granted me Life.</hi> This we muſt give to God by Obedience, ſerving him in holineſs and righteouſneſs all the days of our life; This Life we muſt give to God by a willing and chear<g ref="char:EOLhyphen"/>ful reſignation of it, when he ſhall call. <hi>My time,</hi> ſaith David, <hi>is in thy hand.</hi> He can ſhut or open his hand as it pleaſeth him: When he ſhuts it, he doth pre<g ref="char:EOLhyphen"/>ſerve it; when he opens it, it flies away. We muſt live in a readineſs to ſay with <hi>David,</hi> Pſal. 31. 6. <hi>Into thine hand I commit my Spirit.</hi> It is a common Proverb, that <hi>Money hath no where a greater value, than where it is coin'd;</hi> our Soul is no where more dear and precious than in Heaven, before God, and his holy Angels, where it was created. Let us chearfully reſign it unto him when he ſhall call; and this not only by a natural and quiet Death, but by Martyrdom, if Providence ſhall try us, and honour us ſo far.</p>
+            <p>I count not my Life dear unto my ſelf, that I might <hi>finiſh my Courſe with joy,</hi> ſaith St. <hi>Paul,</hi> Acts 20. 24. This is no more than Jeſus hath done for us: <hi>Sanguinem ſol<g ref="char:EOLhyphen"/>vit,
+<pb n="17" facs="tcp:94582:11"/> ſanguinem debes, ille pro te ſolvit, tu pro te redde,</hi> ſaith St. <hi>Ambroſe. Antiſiodorenſis</hi> obſerves, that Chriſt was crucified with his Head downward, his very poſture ſpeaking this Language; I ſuffer for Sinners, thoſe who live upon the Earth. But St. <hi>Peter</hi> was cruci<g ref="char:EOLhyphen"/>fied with his Face looking up towards Heaven; his poſture ſpake this Language; I ſuffer for that King<g ref="char:EOLhyphen"/>dom which is above. This is the voice of Ju<g ref="char:EOLhyphen"/>ſtice and Equity, <hi>Redde mihi vitam tuam, pro quâ meam dedi.</hi>
+            </p>
+            <p n="4">4. Laſtly, we muſt give to God ſome part of our Eſtates, <hi>Prov.</hi> 3. 9. <hi>Honour the Lord with thy Subſtance.</hi> Our Wealth and Riches are not ſo our own, but ſome part belong unto God, and to detain it, is to rob him. <hi>Mal.</hi> 3. 8. <hi>Will a man rob God?</hi> One would think a Man ſhould not do it, who hath received all things from him. The people there did not think it poſ<g ref="char:EOLhyphen"/>ſible for a Man to do it, and therefore they reply and diſpute, <hi>Wherein have we robbed thee?</hi> The anſwer is there given, <hi>In Tythes and Offerings.</hi>
+            </p>
+            <p>This ſin of Sacrilege was the ſin of <hi>Adam</hi> in Para<g ref="char:EOLhyphen"/>diſe; let no Man wonder that it ſticks ſo cloſe unto our Nature: God reſerved to himſelf one only Tree in Paradiſe, and commanded <hi>Adam</hi> not to eat of it; and I verily think that it was the firſt Fruit that <hi>Adam</hi> taſted: God's reſerved Apple is faireſt and ſweeteſt
+<pb n="18" facs="tcp:94582:12"/> to our Eye and Pallate. The World hath made too much a ſport of this Sin. <hi>Dionyſius</hi> of <hi>Syracuſe,</hi> when he took a golden Robe from <hi>Jupiter Olympus,</hi> he added this jeer to his Sacrilege, <hi>That it was too heavy for Summer, and too cold for Winter, therefore he put upon him one of Wool, which better fitted both Seaſons;</hi> and when he had taken away the Cups and Crowns of Gold, which the Ima<g ref="char:EOLhyphen"/>ges of their Gods held forth, he ſaid, <hi>He took nothing but what they offer'd him. Julian,</hi> when he robb'd and ſpoil'd the Chriſtians, made but a Jeſt of it, ſaying, <hi>Beati pauperes,</hi> Bleſſed are the Poor; and ſome do think at this day, that it were fit the Clergy ſhould be poor, as Chriſt and his Apoſtles were. But I wonder what thoſe Men would do, when they ſhould hear us preach upon that Text, 1 <hi>Cor.</hi> 11. 1. <hi>Be ye followers of me, even as I alſo am of Chriſt,</hi> ſurely they would ſuffer us to go alone in the imitation of his Poverty.</p>
+            <p>Let us be ſerious, and tremble to rob God of that which is his; let us ſet before us <hi>Acham</hi> in the time of the Old Law, and <hi>Ananias</hi> and <hi>Saphira</hi> in the times of the Goſpel: Their Sin was Sacrilege, their End was miſerable.</p>
+            <p>Let us honour God again with our Subſtance, by giving Alms unto the Poor, by building Churches where they are wanting, by repairing and beautify<g ref="char:EOLhyphen"/>ing them where they are decayed. Thus let us give
+<pb n="19" facs="tcp:94582:12"/> to God ſome part of our Eſtates, from whoſe Good<g ref="char:EOLhyphen"/>neſs and bounty we have received all.</p>
+            <p>Thus have I ſtated the Rights, both of <hi>Caeſar</hi> and of God, and have done with my Text; the Applications ſhall be theſe:</p>
+            <p n="1">1. From the word <hi>Reddite, Render,</hi> I raiſe an uſe of Exhortation: If it be a <hi>rendering,</hi> not a <hi>giving,</hi> then it is a juſt Debt upon us, both to <hi>Caeſar</hi> and to God, and in all honeſty we are bound to pay our Debts.</p>
+            <p n="2">2. If you will read the Text with that word, <hi>Date, Give,</hi> as ſeveral Tranſlations do, from that I raiſe an uſe of Direction; That we part with <hi>Caeſar</hi>'s and God's Rights willingly. What is more free than Gift? <hi>Hilarem datorem diligit;</hi> God loveth a chearful giver: That which is done otherwiſe, it is as not done. <hi>Quod voluntas non facit, non fit.</hi>
+            </p>
+            <p n="3">3. Becauſe this act of Giving is difficult and un<g ref="char:EOLhyphen"/>pleaſing to our pinch'd-ſtarv'd humours; from thoſe two words, <hi>Caeſar,</hi> and <hi>God,</hi> I raiſe an uſe of Encou<g ref="char:EOLhyphen"/>ragement.</p>
+            <p>
+               <hi>Caeſar</hi> is our King; <hi>Caeſar</hi> is the <hi>Lord's Anointed; Caeſar</hi> is our nurſing Father; <hi>Caeſar</hi> is the <hi>breath of our No<g ref="char:EOLhyphen"/>ſtrils,</hi> Lam. 4. 20. <hi>Caeſar</hi> is the Son of ſuch a <hi>Caeſar,</hi>
+               <pb n="20" facs="tcp:94582:13"/> who was a Martyr, who laid down his Life to pre<g ref="char:EOLhyphen"/>ſerve us from ſlavery: Our <hi>Caeſar</hi> hath been miracu<g ref="char:EOLhyphen"/>louſly preſerved, and miraculouſly reſtored; nothing can be too much, nothing can be too dear for ſuch a <hi>Caeſar.</hi> And as for God, he hath given us our Being, and hath promiſed to us an Eternal Being with him<g ref="char:EOLhyphen"/>ſelf in Glory: To which bleſſed place, God in his due time bring us. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94582:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
